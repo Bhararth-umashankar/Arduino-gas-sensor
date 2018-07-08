@@ -1,4 +1,4 @@
-# LPG--Detector-
+# Lpg Detector Arduino  
 Gas leakage is a common problem in households worldwide.
 It is an imminent danger and can cause severe damage to houses and can ruin lives, as it is not easily detectable.
 We live in an age where such conundrums should be avoided at all costs.
