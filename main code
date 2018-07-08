@@ -1,4 +1,4 @@
-nt terminal1=12; int terminal2=11;      // two terminals of the Dc motor
+int terminal1=12; int terminal2=11;      // two terminals of the Dc motor
 int sensor = A0;
 int sensorValue; int window=1; int i;
 void setup()
@@ -38,15 +38,15 @@ window=0;
 }
 }
 // This code  reads the senor value from the analog pin and if the value exceeds 500 then the motors get turned on. In this case the runs for about
-6 -7 seconds. If you want to run the motors for more time the change the value in for loop in line 28 .
+//6 -7 seconds. If you want to run the motors for more time the change the value in for loop in line 28 .
 
-For sending the email .
-im using node-red seria communication 
+//For sending the email .
+//im using node-red seria communication 
 
-what is Node-red? How to install?
+//what is Node-red? How to install?
 
-google!
+//google!
 
-if you want to learn how exactly this works with Node-red to send email refer the link below 
+//if you want to learn how exactly this works with Node-red to send email refer the link below 
 
-icircuit.net/mailing-arduino-serial-data-using-node-red/1017.
+//icircuit.net/mailing-arduino-serial-data-using-node-red/1017.
